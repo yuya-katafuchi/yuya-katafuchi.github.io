@@ -26,7 +26,7 @@ Research Interest
 
 Other Academic Services
 ====
-[CitEc](http://citec.repec.org/p/k/pka1441.html), [EconPapers](https://econpapers.repec.org/RAS/pka1441.htm), [GitHub](https://github.com/yuya-katafuchi), [GoogleScholar](https://scholar.google.co.jp/citations?user=6HYe6KoAAAAJ&hl=ja), [IDEAS](https://ideas.repec.org/f/pka1441.html), [J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202001008723914687), [KAKEN](https://nrid.nii.ac.jp/en/nrid/1000040883450/), [researchmap](https://researchmap.jp/yuya_katafuchi), [Web of Science](https://www.webofscience.com/wos/author/record/2128800), [Zotero](https://www.zotero.org/yuya.katafuchi)
+[CitEc](http://citec.repec.org/p/k/pka1441.html), [EconPapers](https://econpapers.repec.org/RAS/pka1441.htm), [IDEAS](https://ideas.repec.org/f/pka1441.html), [J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202001008723914687), [KAKEN](https://nrid.nii.ac.jp/en/nrid/1000040883450/), [researchmap](https://researchmap.jp/yuya_katafuchi), [Web of Science](https://www.webofscience.com/wos/author/record/2128800), [Zotero](https://www.zotero.org/yuya.katafuchi)
 
 ----
 日本語のページは作成中です。
