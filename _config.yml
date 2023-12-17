@@ -81,12 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yuya Katafuchi"
+  avatar           : "/images/44940112.png"
   bio              : "Senior Researcher, Research Institute for Humanity and Nature"
   location         : "Kyoto, Japan"
   employer         :
   pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "yuya.katafuchi@gmail.com"
+  email            : "yuya dot katafuchi at gmail dot com"
   researchgate     : "https://www.researchgate.net/profile/Yuya-Katafuchi"
   uri              :
   bitbucket        :
