@@ -31,6 +31,3 @@ Other Academic Services
 Contact
 ====
 yuya dot katafuchi at gmail dot com
-
-----
-日本語のページは作成中です。
