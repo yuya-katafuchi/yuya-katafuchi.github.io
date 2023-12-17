@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Preprint is out now
+Preprints out now
 ====
 * **Katafuchi, Y.**, Li, X., Yamada, T., Fujii, H., & Kanemoto, K. [Construction of Enterprise-Level Global Supply Chain Database](https://www.researchsquare.com/article/rs-3651986/). Preprint available at Research Square.
   * [SI Appendix for "Construction of Enterprise-Level Global Supply Chain Database"](https://assets.researchsquare.com/files/rs-3651986/v1/11e238d1ed062b94c5424f3e.pdf).
