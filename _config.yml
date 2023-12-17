@@ -184,6 +184,9 @@ collections:
   wps:
     output: true
     permalink: /:collection/:path/
+  dbs:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -237,6 +240,15 @@ defaults:
   - scope:
       path: ""
       type: wps
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+    # _dbs
+  - scope:
+      path: ""
+      type: dbs
     values:
       layout: single
       author_profile: true

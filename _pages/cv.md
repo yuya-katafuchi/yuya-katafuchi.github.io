@@ -51,6 +51,12 @@ Working Papers
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Databases
+======
+  <ul>{% for post in site.dbs %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Talks
 ======
   <ul>{% for post in site.talks %}

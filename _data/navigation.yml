@@ -6,6 +6,9 @@ main:
   - title: "Working Papers"
     url: /wps/
 
+  - title: "Databases"
+    url: /dbs/
+
   - title: "Talks"
     url: /talks/
 
