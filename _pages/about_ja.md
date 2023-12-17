@@ -38,19 +38,42 @@ Preprints out now
 
 ワーキングペーパー
 ======
-
+[Working Papers](/wps/)を参照
 
 データ
 ======
-
+[Databases](/dbs/)を参照
 
 学会発表
 ======
-
+[Talks](/talks/)を参照
 
 研究助成
 ======
+科学研究費助成事業（日本学術振興会）
+* [新型コロナウイルス感染症に関する政策データベース構築と異質性を考慮した政策評価](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K13320/)，若手研究，研究代表者，総額4,550,000円，2021～2024年度
+* [新型コロナウイルス感染症が地価に与える影響に関する実証分析](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20K22142/)，研究活動スタート支援，研究代表者，総額2,860,000円，2020～2021年度
 
+学歴
+====
+* 九州大学大学院経済学府 経済工学専攻博士後期課程 博士(経済学) (2020/03)
+  * 博士論文「Essays on Quantile Regressions」（指導教員：瀧本太郎氏）
+* College of Social Science, National Taiwan University, Ph.D. Visiting Student (2017/02-2017/07)
+  * 共同研究論文「Land Prices and the Unemployment Rate in Japan」（指導教員：Jau-er Chen氏）
+* 九州大学大学院経済学府 経済工学専攻 修士(経済学) (2015/03)
+  * 修士論文「Bayesian inference for mixture innovation model」（指導教員：瀧本太郎氏）
+* 西南学院大学 経済学部経済学科 学士(経済学) (2013/03)
+  * 学士論文「Nonlinear time-series modelによるEuropean sovereign-debt crisis下のStock return volatilityの分析」(指導教員：中馬正博氏）
+* 福岡県立筑紫丘高等学校理数科 卒業 (2008/03)
+
+職歴
+====
+* 総合地球環境学研究所 上級研究員 (2021/10/01-)
+* 総合地球環境学研究所 研究員 (2020/04/01-2021/09/30)
+* 総合地球環境学研究所 研究推進員 (2019/04/01-2020/03/31)
+* 九州大学経済学府 ティーチング・アシスタント (2016/11-2019/03)
+* 九州大学経済学府 リサーチ・アシスタント (2016/04-2019/03)
+* 九州大学経済学研究院 テクニカルスタッフ (2018/03-2018/09)
 
 オンラインコースの単位認定証
 ======
