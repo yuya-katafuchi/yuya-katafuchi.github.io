@@ -40,10 +40,22 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Working Papers
+======
+  <ul>{% for post in site.wps %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Grants
+======
+  <ul>{% for post in site.grants %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 <!-- Teaching
