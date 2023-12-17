@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Databases"
-permalink: /wps/
+permalink: /dbs/
 author_profile: true
 ---
 
