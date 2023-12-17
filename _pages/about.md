@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Yuya Katafuchi, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from:
