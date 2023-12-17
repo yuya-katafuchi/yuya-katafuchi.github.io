@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuya Katafuchi / 片渕結矢"
+title                    : "Yuya Katafuchi"
 title_separator          : "-"
 name                     : &name "Yuya Katafuchi"
 description              : &description "personal description"
