@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "片渕結矢"
+title: "私について"
 permalink: /about_ja/
 author_profile: true
 ---
 
 {% include base_path %}
 
-私について
-====
 * 大学共同利用機関法人 人間文化研究機構 [総合地球環境学研究所](http://www.chikyu.ac.jp/) 上級研究員
   * 所属プロジェクト: 「[グローバルサプライチェーンを通じた都市、企業、家庭の環境影響評価に関する研究](https://www.chikyu.ac.jp/rihn/project/2019-01.html)」
 * [博士 (経済学), 九州大学, 2020](http://hdl.handle.net/2324/4059977)
