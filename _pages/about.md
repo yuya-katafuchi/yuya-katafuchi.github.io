@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-
+I am a Senior Researcher at Research Institute for Humanity and Nature, Kyoto, Japan. I received my Ph.D. in Economics from Kyushu University in 2020. My research interests include econometrics, applied econometrics, statistics, applied machine learning, and industrial ecology. I am currently working on the construction of a global supply chain database. I am also interested in the impact of the COVID-19 pandemic on the economy and the environment.
 
 Preprints out now
 ====
