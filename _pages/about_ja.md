@@ -13,6 +13,7 @@ author_profile: true
   * 所属プロジェクト: 「[グローバルサプライチェーンを通じた都市、企業、家庭の環境影響評価に関する研究](https://www.chikyu.ac.jp/rihn/project/2019-01.html)」
 * [博士 (経済学), 九州大学, 2020](http://hdl.handle.net/2324/4059977)
 * 福岡県福岡市出身
+* yuya dot katafuchi at gmail dot com
 
 
 Preprints out now
