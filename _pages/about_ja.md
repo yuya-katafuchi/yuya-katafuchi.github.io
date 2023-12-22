@@ -13,6 +13,12 @@ author_profile: true
 * 福岡県福岡市出身
 * yuya dot katafuchi at gmail dot com
 
+App out now
+====
+[CarbonScope](https://www.carbonscope.com/app/ja)
+* 「CarbonScope」は、企業が排出するCO₂排出量を可視化するアプリです。身の回りのものをカメラで撮影したり、カテゴリから検索したりすることでCO₂排出量を知ることができます。
+* [App Store](https://apps.apple.com/jp/app/carbonscope/id6467379740)
+
 
 Preprints out now
 ====
