@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at Graduate School of Environmental Studies, Tohoku University, Japan. I received my Ph.D. in Economics from Kyushu University in 2020. My research interests include econometrics, applied econometrics, statistics, applied machine learning, and industrial ecology. I am currently working on the construction of a global supply chain database. I am also interested in the impact of the COVID-19 pandemic on the economy and the environment.
+I am an Assistant Professor at [Industrial Ecology Lab.](https://www.indecol.net/), [Graduate School of Environmental Studies, Tohoku University](https://www.kankyo.tohoku.ac.jp/en/), Japan. I received my Ph.D. in Economics from Kyushu University in 2020. My research interests include econometrics, applied econometrics, statistics, applied machine learning, and industrial ecology. I am currently working on the construction of a global supply chain database. I am also interested in the impact of the COVID-19 pandemic on the economy and the environment.
 
 App out now
 ====
