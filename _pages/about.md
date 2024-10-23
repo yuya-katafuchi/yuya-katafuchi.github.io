@@ -19,7 +19,7 @@ App out now
 Preprints out now
 ====
 * **Katafuchi, Y.**, Li, X., Moran, D., Yamada, T., Fujii, H., & Kanemoto, K. [Construction of An Enterprise-Level Global Supply Chain Database](https://www.researchsquare.com/article/rs-3651986/). Preprint available at Research Square. Version 3 (2024-10-22).
-  * [SI Appendix for "Construction of Enterprise-Level Global Supply Chain Database"](https://assets.researchsquare.com/files/rs-3651986/v2/f998c97ed93745acbe12f7f3.pdf).
+  * [SI Appendix for "Construction of Enterprise-Level Global Supply Chain Database"](https://assets-eu.researchsquare.com/files/rs-3651986/v3/5258634f30c27028c233c508.pdf).
 * Li, X., **Katafuchi, Y.**, Moran, D., Yamada, T., Fujii, H., & Kanemoto, K. [Systematic Underreporting in Corporate Scope 3 Disclosure](https://www.researchsquare.com/article/rs-3670939/). Preprint available at Research Square. Version 2 (2024-10-22).
 
 Research Interest
