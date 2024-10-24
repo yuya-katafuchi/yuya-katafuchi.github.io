@@ -35,4 +35,4 @@ Other Academic Services
 
 Contact
 ====
-yuya dot katafuchi at gmail dot com
+![Email](images/email.png)

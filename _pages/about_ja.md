@@ -10,7 +10,7 @@ author_profile: true
 * 東北大学大学院 [環境科学研究科](https://www.kankyo.tohoku.ac.jp/) [産業エコロジー研究室](https://www.indecol.net/ja) 特任助教
 * [博士 (経済学), 九州大学, 2020](http://hdl.handle.net/2324/4059977)
 * 福岡県福岡市出身
-* yuya dot katafuchi at gmail dot com
+* ![Email](images/email.png)
 
 App out now
 ====
