@@ -243,3 +243,8 @@
     }
   }
 }
+
+/* /about_ja/ ページのタイトルを非表示にする */
+.about-ja h1 {
+  display: none;
+}
