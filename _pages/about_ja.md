@@ -14,7 +14,7 @@ author_profile: true
 
 連絡先
 ====
-![Email](images/email.png)
+![Email](/images/email.png)
 
 App out now
 ====
