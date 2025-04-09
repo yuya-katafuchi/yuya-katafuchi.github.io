@@ -10,13 +10,13 @@ redirect_from:
 
 I am a Specially-Appointed Assistant Professor at [Industrial Ecology Lab.](https://www.indecol.net/), [Graduate School of Environmental Studies, Tohoku University](https://www.kankyo.tohoku.ac.jp/en/), Japan. I received my Ph.D. in Economics from Kyushu University in 2020. My research interests include econometrics, applied econometrics, statistics, applied machine learning, and industrial ecology. I am currently working on the construction of a global supply chain database. I am also interested in the impact of the COVID-19 pandemic on the economy and the environment.
 
-App out now
+App
 ====
 [CarbonScope](https://www.carbonscope.com/app)
 * It navigates the carbon footprint of items around you. Through photos of your surroundings or through a category search, you can check a company’s Scope 3 emissions from their products or services.
 * [App Store](https://apps.apple.com/us/app/carbonscope/id6467379740)
 
-Preprints out now
+Preprints
 ====
 * **Katafuchi, Y.**, Li, X., Moran, D., Yamada, T., Fujii, H., & Kanemoto, K. [Construction of An Enterprise-Level Global Supply Chain Database](https://www.researchsquare.com/article/rs-3651986/). Preprint available at Research Square. Version 3 (2024-10-22).
   * [SI Appendix for "Construction of Enterprise-Level Global Supply Chain Database"](https://assets-eu.researchsquare.com/files/rs-3651986/v3/5258634f30c27028c233c508.pdf).

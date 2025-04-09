@@ -17,14 +17,14 @@ author_profile: true
 ====
 ![Email](/images/email.png)
 
-App out now
+スマートフォンアプリ
 ====
 [CarbonScope](https://www.carbonscope.com/app/ja)
 * 「CarbonScope」は、企業が排出するCO₂排出量を可視化するアプリです。身の回りのものをカメラで撮影したり、カテゴリから検索したりすることでCO₂排出量を知ることができます。
 * [App Store](https://apps.apple.com/jp/app/carbonscope/id6467379740)
 
 
-Preprints out now
+プレプリント
 ====
 * **Katafuchi, Y.**, Li, X., Moran, D., Yamada, T., Fujii, H., & Kanemoto, K. [Construction of An Enterprise-Level Global Supply Chain Database](https://www.researchsquare.com/article/rs-3651986/). Preprint available at Research Square. Version 3 (2024-10-22).
   * [SI Appendix for "Construction of Enterprise-Level Global Supply Chain Database"](https://assets-eu.researchsquare.com/files/rs-3651986/v3/5258634f30c27028c233c508.pdf).
