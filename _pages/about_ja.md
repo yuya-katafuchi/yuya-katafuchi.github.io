@@ -24,12 +24,6 @@ author_profile: true
 * [App Store](https://apps.apple.com/jp/app/carbonscope/id6467379740)
 
 
-プレプリント
-====
-* **Katafuchi, Y.**, Li, X., Moran, D., Yamada, T., Fujii, H., & Kanemoto, K. [Construction of An Enterprise-Level Global Supply Chain Database](https://www.researchsquare.com/article/rs-3651986/). Preprint available at Research Square. Version 3 (2024-10-22).
-  * [SI Appendix for "Construction of Enterprise-Level Global Supply Chain Database"](https://assets-eu.researchsquare.com/files/rs-3651986/v3/5258634f30c27028c233c508.pdf).
-* Li, X., **Katafuchi, Y.**, Moran, D., Yamada, T., Fujii, H., & Kanemoto, K. [Systematic Underreporting in Corporate Scope 3 Disclosure](https://www.researchsquare.com/article/rs-3670939/). Preprint available at Research Square. Version 2 (2024-10-22).
-
 研究関心
 ====
 * 計量経済学（分位点回帰，パネルデータ分析）
@@ -50,9 +44,9 @@ author_profile: true
 ======
 [Working Papers](/wps/)を参照
 
-データ
+データベース・コード
 ======
-[Databases](/dbs/)を参照
+[DB/Code](/dbs/)を参照
 
 学会発表
 ======
