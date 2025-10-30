@@ -36,21 +36,12 @@ author_profile: true
 [CitEc](http://citec.repec.org/p/k/pka1441.html), [EconPapers](https://econpapers.repec.org/RAS/pka1441.htm), [GitHub](https://github.com/yuya-katafuchi), [Google Scholar](https://scholar.google.com/citations?user=6HYe6KoAAAAJ), [IDEAS](https://ideas.repec.org/f/pka1441.html), [J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202001008723914687), [KAKEN](https://nrid.nii.ac.jp/ja/nrid/1000040883450/), [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/yuya-katafuchi-886146160/), [ORCID](https://orcid.org/0000-0003-1216-7791), [ResearchGate](https://www.researchgate.net/profile/Yuya-Katafuchi), [researchmap](https://researchmap.jp/yuya_katafuchi), [Web of Science](https://www.webofscience.com/wos/author/record/2128800), [Zotero](https://www.zotero.org/yuya.katafuchi)
 
 
-論文
+研究業績
 ======
-[Publications](/publications/)を参照
-
-ワーキングペーパー
-======
-[Working Papers](/wps/)を参照
-
-データベース・コード
-======
-[DB/Code](/dbs/)を参照
-
-学会発表
-======
-[Talks](/talks/)を参照
+[論文](/publications/)
+[ワーキングペーパー](/wps/)
+[データベース・コード](/dbs/)
+[学会発表](/talks/)
 
 研究助成
 ======
