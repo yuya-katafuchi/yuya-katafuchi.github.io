@@ -5,12 +5,47 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% assign pubs_by_year = pubs | group_by: "year" %}
+
+{% for year in pubs_by_year %}
+<h2>{{ year.name }}</h2>
+
+{% for post in year.items %}
+<div class="publication-entry {% if post.image %}publication-entry--with-image{% endif %}">
+
+<div class="publication-entry__text">
+
+<p>
+{{ post.authors }} ({{ post.year }}).
+<a href="{{ post.paperurl }}">{{ post.title }}</a>.
+{{ post.journal }}
+</p>
+
+{% if post.japanese_title %}
+<p>
+<a href="{{ post.japanese_url }}">{{ post.japanese_title }}</a>
+</p>
+{% endif %}
+
+{% if post.preprint %}
+<p><a href="{{ post.preprint }}">Preprint</a></p>
+{% endif %}
+
+{% if post.press %}
+<p>Press: {{ post.press | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+{% endif %}
+
+</div>
+
+{% if post.image %}
+<div class="publication-entry__image">
+<img src="{{ post.image | prepend: base_path }}">
+</div>
+{% endif %}
+
+</div>
+{% endfor %}
 {% endfor %}

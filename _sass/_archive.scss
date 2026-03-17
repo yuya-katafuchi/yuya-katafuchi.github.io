@@ -285,3 +285,36 @@
     max-width: 280px;
   }
 }
+
+.publication-entry {
+  margin-bottom: 2rem;
+}
+
+.publication-entry--with-image {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+.publication-entry__text {
+  flex: 1;
+}
+
+.publication-entry__image {
+  flex: 0 0 180px;
+}
+
+.publication-entry__image img {
+  width: 180px;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .publication-entry--with-image {
+    display: block;
+  }
+
+  .publication-entry__image {
+    margin-top: 1rem;
+  }
+}
