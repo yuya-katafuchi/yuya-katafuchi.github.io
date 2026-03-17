@@ -288,3 +288,19 @@
     margin-top: 0.75rem;
   }
 }
+
+.publication-entry--with-image {
+  display: grid !important;
+  grid-template-columns: 1fr 180px !important;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.publication-entry__image {
+  grid-column: 2 !important;
+  justify-self: end;
+}
+
+.publication-entry__text {
+  grid-column: 1 !important;
+}
