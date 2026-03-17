@@ -243,3 +243,45 @@
     }
   }
 }
+
+.pub-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25rem;
+}
+
+.pub-item--no-image {
+  display: block;
+}
+
+.pub-thumb {
+  flex: 0 0 180px;
+}
+
+.pub-thumb img {
+  display: block;
+  width: 180px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.pub-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+@media (max-width: 768px) {
+  .pub-item {
+    display: block;
+  }
+
+  .pub-thumb {
+    margin-bottom: 1rem;
+  }
+
+  .pub-thumb img {
+    width: 100%;
+    max-width: 280px;
+  }
+}
