@@ -243,15 +243,20 @@
     }
   }
 }
+.publication-list {
+  list-style-type: square;
+  padding-left: 1.5rem;
+  margin-left: 0;
+}
 
-.publication-entry {
-  margin-bottom: 2rem;
+.publication-item {
+  margin-bottom: 1.75rem;
 }
 
 .publication-entry--with-image {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 180px;
-  column-gap: 1.5rem;
+  gap: 1.5rem;
   align-items: start;
 }
 
@@ -287,25 +292,4 @@
     justify-self: start;
     margin-top: 0.75rem;
   }
-}
-
-.publication-entry--with-image {
-  display: grid !important;
-  grid-template-columns: 1fr 180px !important;
-  gap: 1.5rem;
-  align-items: start;
-}
-
-.publication-entry__image {
-  grid-column: 2 !important;
-  justify-self: end;
-}
-
-.publication-entry__text {
-  grid-column: 1 !important;
-}
-
-.publication-list {
-  list-style-type: square;
-  padding-left: 1.5em;
 }

@@ -15,8 +15,8 @@ author_profile: true
 
 <ul class="publication-list">
 {% for post in year.items %}
-<li class="publication-entry{% if post.image %} publication-entry--with-image{% endif %}">
-
+<li class="publication-item">
+<div class="publication-entry{% if post.image %} publication-entry--with-image{% endif %}">
 <div class="publication-entry__text">
 <p class="publication-entry__citation">
 {{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}
@@ -50,9 +50,8 @@ Press:
 <img src="{{ post.image | prepend: base_path }}" alt="{{ post.title }}">
 </div>
 {% endif %}
-
+</div>
 </li>
 {% endfor %}
 </ul>
-
 {% endfor %}
