@@ -5,6 +5,7 @@ permalink: /publication/2021-covid19-stigma
 date: 2021-01-01
 year: 2021
 paperurl: https://link.springer.com/article/10.1007/s41885-020-00077-w
+image: /images/publications/2021_covid19_stigma.png
 authors: "**Katafuchi, Y.**, Kurita, K., & Managi, S."
 journal: "<i>Economics of Disasters and Climate Change</i>, 5(1), 71-95."
 press: |
